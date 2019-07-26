@@ -14,7 +14,7 @@
         android:layout_marginLeft="24dp"
         android:layout_marginRight="24dp"
         android:layout_marginTop="30dp"
-        android:textColor="#212121"
+        android:textColor="#FFD399"
         android:layout_marginBottom="20dp"
         />
 
