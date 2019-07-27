@@ -27,7 +27,7 @@
         android:stepSize="1"
         android:numStars="5"
         android:paddingBottom="20dp"
-        />
+        android:progressTint="@color/accent"/>
 
 
 
